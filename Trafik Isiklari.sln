@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trafik Isiklari", "Trafik Isiklari\Trafik Isiklari.csproj", "{0A93BBE7-9B93-4FB5-9CA2-C10915135C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A93BBE7-9B93-4FB5-9CA2-C10915135C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A93BBE7-9B93-4FB5-9CA2-C10915135C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A93BBE7-9B93-4FB5-9CA2-C10915135C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A93BBE7-9B93-4FB5-9CA2-C10915135C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E2F9E77-3CF4-4B94-A5AC-CBF6FC5C170A}
+	EndGlobalSection
+EndGlobal
